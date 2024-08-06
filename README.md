@@ -15,9 +15,9 @@ Sou um profissional da area de Infraestrutura & Segurança, apaixonado por desaf
 
 - ## Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ginshik&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
+![Stats](https://github-readme-stats.vercel.app/api?username=willian-J-A&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&hide=prs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ginshik&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willian-J-A&layout=compact)
 
 
 ## Agradecimentos
