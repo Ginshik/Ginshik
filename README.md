@@ -4,7 +4,7 @@ Sou um profissional da area de Infraestrutura & Segurança, apaixonado por desaf
 
 ## Sobre Mim
 
-- 🧑‍💻 Trabalhando com **Redes de Computadores**, **administração de HIDS**, e **Manutenção de Servidores**
+- 🧑‍💻 Trabalhando com **Redes de Computadores**, **Administração de HIDS**, e **Manutenção de Servidores**
 - 🌱 Atualmente me Especializando em **CYBER SECURITY**
 - 💬 Pergunte-me sobre **Como se proteger**
 - 📫 Como me encontrar: william.junior09@hotmail.com ou (https://www.linkedin.com/in/william-andrade-2022090736838282829/)
