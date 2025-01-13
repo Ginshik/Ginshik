@@ -1,6 +1,6 @@
 # Olá, eu sou Willian 👋
 
-Sou um profissional da area de Infraestrutura & Segurança, apaixonado por desafios. Atualmente, estou trabalhando Na **Safebank Gestao Tecnologia LTDA**.
+Sou um profissional da area de Infraestrutura & Segurança, apaixonado por desafios. Atualmente, estou trabalhando Na **CyberBridge**.
 
 ## Sobre Mim
 
